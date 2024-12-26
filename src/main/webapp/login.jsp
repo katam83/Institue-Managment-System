@@ -89,7 +89,7 @@
         <h1>Login Page</h1>
         <label>Email:</label>
         <input type="email" name="name"><br>
-        <label>Password:</label>
+        <label>Passwrd:</label>
         <input type="password" name="pass"><br>
         <label>
             <% 
